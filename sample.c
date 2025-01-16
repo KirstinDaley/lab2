@@ -4,4 +4,4 @@ int main() {
 	printf ("Enter your last name: ");
 	scanf ("%s", last_name);
 	printf("Entered last name is %s\n", last_name);
-	}
+}
